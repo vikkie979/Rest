@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-23T09:02:55 UTC" name="Default suite" finished-at="2025-07-23T09:03:01 UTC" duration-ms="5322">
+    <groups>
+    </groups>
+    <test started-at="2025-07-23T09:02:55 UTC" name="Default test" finished-at="2025-07-23T09:03:01 UTC" duration-ms="5322">
+      <class name="Testnggg.googletest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:Testnggg.googletest@6e171cd7]" started-at="2025-07-23T09:02:55 UTC" name="setupReport" finished-at="2025-07-23T09:02:55 UTC" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testnggg.googletest@6e171cd7]" started-at="2025-07-23T09:02:56 UTC" name="setup" finished-at="2025-07-23T09:02:59 UTC" duration-ms="3515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openGoogleTest()[pri:0, instance:Testnggg.googletest@6e171cd7]" started-at="2025-07-23T09:02:59 UTC" name="openGoogleTest" finished-at="2025-07-23T09:03:01 UTC" duration-ms="1448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testnggg.googletest@6e171cd7]" started-at="2025-07-23T09:03:01 UTC" name="tearDown" finished-at="2025-07-23T09:03:01 UTC" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownReport()[pri:0, instance:Testnggg.googletest@6e171cd7]" started-at="2025-07-23T09:03:01 UTC" name="tearDownReport" finished-at="2025-07-23T09:03:02 UTC" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownReport -->
+      </class> <!-- Testnggg.googletest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
